@@ -1,7 +1,6 @@
-# Data Analysis
-Data Analysis Projects Repository
+# Data Analytics
 
-Welcome to my data analysis repository! Here, you'll find a collection of projects showcasing my expertise in data analysis using Python.
+Welcome to my data analytics repository! Here, you'll find a collection of projects showcasing my expertise in data analysis using Python.
 
 📊 Explore Diverse Projects:
 Dive into a variety of data analysis projects covering domains such as finance, healthcare, marketing, and more. Each project is meticulously crafted to explore and extract insights from real-world datasets.
