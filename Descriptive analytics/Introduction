@@ -1,1 +1,59 @@
+# Descriptive Analytics
 
+Descriptive analytics helps to identify important patterns and trends in large datasets. 
+In comparison to all other methods of data analysis, descriptive is the most used one. 
+The main task of descriptive analytics is to create metrics and key performance indicators for use in dashboards and business reports.
+
+# What is Descriptive Analytics?
+
+The process of converting raw information into a straightforward and easily understood format is known as descriptive analytics. Rearranging, sorting, and modifying data are necessary steps in order to get meaningful information. Many corporations collect massive amounts of data, yet understanding its importance requires analysis. With the goal of giving organizations perspectives on past events, descriptive analytics focuses on summarizing and focusing on trends within both current and historical data. But its reach is restricted to figuring out what has really occurred, not exploring the reasons behind events or forecasting what will happen in the future. Businesses frequently mix descriptive analytics with other analytical techniques to address these problems.
+For example, simply taking a look at manufacturer data for your whole year might not provide information about average production or if overall production has gone up or down from previous years. The first step in analyzing raw data is called descriptive analytics, which uses basic mathematical operations to get summary statistics such as average production per month. This process provides a clearer understanding of the current business situation. After identifying trends, additional analytical techniques can be applied for analysis.
+
+# How does descriptive analytics work?
+
+A type of descriptive analytics involves analyzing and simplifying historical data to provide insights into previous events, trends, and patterns. It is much closer to reporting than to what most people think of as analytics.
+
+# Working on Descriptive analysis
+
+- Data Collection: Collecting useful information is the initial stage in the descriptive analytics process. By using multiple resources such as databases, spreadsheets, and other data repositories. All of these provide this data. Since they directly affect how accurate the descriptive analytics is, the accuracy and standard of the data are extremely important.
+- Cleaning the Data and Preprocessing: The obtained data usually needs to be cleaned and preprocessed before analysis can start. This includes converting data into a uniform structure, standardizing formats, and handling missing or incorrect values. Clean and well-preprocessed data ensures that the subsequent analytics is reliable.
+- Data analysis: It provides an understanding of the structure and features of the dataset. Here EDA (exploratory data analysis) methods helps to find the patterns, trends, and possible outliers in the data. These methods include making histograms, scatter plots, and summary statistics.
+- Compilation and Summary: The goal of descriptive analytics is to offer an overview of the data at a high level. To get important metrics and statistics, such as mean, median, mode, range, and standard deviation, this frequently requires combining the data.
+- Visualization: In descriptive analytics, visualizations are extremely useful tools. It helps us to communicate complex information with a variety of charts, graphs, and other visual representations are employed. Data patterns and trends can be highlighted with the use of visualization, which also makes it easier to convey insights to a wide range of audiences.
+- Fiction Creation: Descriptive analytics can include the creation of descriptions that offer a logical and contextualized explanation of the data, in addition to visuals. When communicating findings to those in the audience who might not be familiar with the complexities of the data, this can be especially helpful.
+- Interpretation: To obtain significant knowledge, analysts interpret the outcomes of descriptive analytics. This involves knowing the effects of the trends and patterns seen in the data. While interpretation provides the foundation for more in-depth analyses that investigate “why” and “what might happen in the future,” descriptive analytics concentrates on the “what happened” topic.
+- Testing Actively: The process of descriptive analytics is not one-time. Organizations continually repeat the descriptive analytics when new data becomes available in order to keep informed about the latest developments and patterns. This way, people making decisions get the newest information.
+
+# Advantages of Descriptive Analytics
+
+Descriptive analytics helps organizational workflows by making difficult concepts easy for everyone and simplifying the distribution of information. Here are some advantages to descriptive analytics:
+
+- Data-driven decision-making: It provides well-informed decision-making based on facts rather than gut instincts by evaluating and simplifying data.
+- Presents data clearly: Descriptive analytics simplifies complex data, making it easy to understand through reports and visualizations like charts and graphs.
+- Convenient to Realize: Data that has been summarized and graphically represented is easier to clarify and evaluate for a larger audience.
+- Identifies Relevant Data Points: It offers straightforward metrics that give an accurate estimation of important data points.
+- Simple and cost-effective: Descriptive analytics is simple to use and just requires basic arithmetic knowledge for execution.
+- Efficient with tools: With the aid of tools like Python or MS Excel, which make things fast and easy.
+
+# Disadvantages of Descriptive Analytics
+
+Descriptive analysis has disadvantages as well as limitations, but it provides insightful information about historical data. Understanding these drawbacks is essential for organizations to make informed decisions about the appropriate use of descriptive analytics. Here are some of the key disadvantages:
+
+- Inability of Cause Analysis: The main goal of descriptive analytics is to explain historical events. It doesn’t explore the root causes or reasons for the patterns that are seen.
+- Analysis Simplicity: The reach of descriptive analytics is restricted to basic analyses that look at the relationships between a small number of variables.
+- Doesn’t Explain Why: It provides you with the facts, but it doesn’t go into the causes of the events or make any predictions about what might happen in the future.
+- Inappropriate for Making Decisions in Real Time: As descriptive analytics generally involve batch processing, it might not be the best option for making decisions in real time. When prompt answers are essential, depending only on descriptive analytics can lead to out-of-date or delayed results.
+- Lack of ability to handle unstructured data: Structured and well-organized datasets are better suited for descriptive analytics. while analyzing semi-structured or unstructured data, such as text, photos, or multimedia, it could make challenging to offer insightful analysis.
+
+# Applications of Descriptive Analytics
+
+The applications of descriptive analysis may be discovered in many different fields and sectors, and it offers insightful information about past data. These examples show how useful descriptive analysis is, showing how it can be used in a variety of contexts to make data-driven decisions, enhance workflows, and extract insightful information from historical data. The following are some important applications:
+
+- Financial Performance Evaluation: A common method for analyzing and evaluating a company’s past performance is descriptive analytics. Organizations are able to recognize trends, patterns, and opportunities for improvement by tracking key performance indicators (KPIs) across time. This knowledge supports and enhances business operations through strategic decision-making.
+- Marketing and Analysis of Customer Behavior: Businesses need to understand customer behaviour. Analyzing historical data on consumer interactions, purchasing trends, and preferences is made easier with the use of descriptive analytics.
+- Friction Analysis in Business Processes: To detect and reduce friction in business processes, descriptive analytics is used. Any obstruction or inefficiency that prevents processes from moving smoothly is referred to as friction. Organizations can identify regions of friction by analyzing historical data on delays in workflows, resource use, and process execution times.
+- Social Networking Analytics: To analyze user involvement, content performance, and audience demographics, descriptive analytics is used in social media. It assists businesses in customizing their social media plans according on past performance.
+- Crime and Fraud Detection: To look for trends in past crime data, law enforcement and security organizations use descriptive analytics. It is used in financial organizations to find trends and abnormalities that point to fraudulent activity.
+- Crypto Market Analysis: Investors in the cryptocurrency industry can obtain important insights into the behaviour of Bitcoin markets by examining historical price data, trading volumes, and market patterns. These patterns, emotions in the market, and possible factors impacting the price fluctuation of Bitcoin can all be found with the help of descriptive analytics.
+- Human Resources Management: HR uses descriptive analytics to analyze their staff. It aids businesses in the analysis of previous information on worker performance, turnover rates, training effectiveness, and other HR indicators.
+- Risk Assessment and Management: To identify and analyze historical risk factors, descriptive analytics is used in risk assessment. Organizations need to know this information. This information is really important for companies in areas like banking and insurance to create plans that help reduce and handle risks better.
